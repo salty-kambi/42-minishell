@@ -1,2 +1,5 @@
 # 42-minishell
-https://cdn.intra.42.fr/pdf/pdf/46634/fr.subject.pdf
+
+L'objectif de ce projet est de créer un simple shell, une reproduction allégée de bash.
+
+https://github.com/salty-kambi/42-minishell/blob/master/minishell.fr.subject.pdf
